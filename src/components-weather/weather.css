@@ -1,0 +1,28 @@
+.weather-container {
+  background-color: #0000009b;
+  color: rgb(255, 255, 255);
+  padding: 16px;
+  border-radius: 10px;
+  text-align: center;
+  width: 250px;
+  margin: 8px 0px 0px 620px;
+  /* box-shadow:0px 0px 80px 500px #64a2dfcc; */
+}
+.weather-container img {
+height: 150px;
+width: 150px;
+margin: -30px 100px 0px 0px;
+}
+.city-name {
+font-size: 24px;
+}
+
+.temperature {
+font-size: 20px;
+margin: -80px 0px 0px 150px;
+}
+.description {
+font-size: 20px;
+text-transform: capitalize;
+margin: 25px 0px 0px 0px;
+}
