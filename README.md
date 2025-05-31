@@ -20,7 +20,9 @@ A responsive and user-friendly weather forecasting app built with React. It fetc
 - Axios
 - React Router DOM
 - OpenWeatherMap API
-
+## Demo
+![Screenshot](Screenshot(17).png)
+![Screenshot](Screenshot(18).png)
 ## 📦 Installation
 
 1. Clone the repository
